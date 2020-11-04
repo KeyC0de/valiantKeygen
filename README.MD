@@ -1,9 +1,6 @@
 # Valiant KeyGen 
 
-A trivial key generator 
+trivial key generator 
 
-(for testing) 
+I was testing some stuff..
 
-Move along.. 
-
-Move along plz!.
